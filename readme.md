@@ -1,3 +1,3 @@
 # COSE 474 projects
 
-COSE474 assignments
+COSE474 deep learning assignments
